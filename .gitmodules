@@ -1,0 +1,9 @@
+[submodule "themes/hargo-hugo-ecommerce-theme"]
+	path = themes/hargo-hugo-ecommerce-theme
+	url = https://github.com/themefisher/hargo-hugo-ecommerce-theme.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hargo"]
+	path = themes/hargo
+	url = https://github.com/themefisher/hargo-hugo-ecommerce-theme.git
