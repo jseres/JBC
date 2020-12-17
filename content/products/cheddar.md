@@ -1,17 +1,17 @@
 ---
-title: "Taba Cream"
+title: "1 year Cheddar Variety"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Cheese"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "350"
+priceBefore: "400"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "Enjoy the finest selection of aged cheddar"
 
 #product ID
 productID: "1"
@@ -22,7 +22,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/product-2.png"
+  - image: "images/products/red_fox.png"
   - image: "images/products/product-1.png"
   - image: "images/products/product-3.png"
   - image: "images/products/product-4.png"
